@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web_config.xml",
+        "source": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\src\\main\\res\\layout\\activity_web_config.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_enterprise.xml",
+        "source": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\src\\main\\res\\layout\\item_enterprise.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video.xml",
+        "source": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\src\\main\\res\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_news_web.xml",
+        "source": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\src\\main\\res\\layout\\activity_news_web.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu.xml",
+        "source": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ip.xml",
+        "source": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\src\\main\\res\\layout\\activity_ip.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_camera.xml",
+        "source": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\src\\main\\res\\layout\\item_camera.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_video.xml",
+        "source": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\src\\main\\res\\layout\\fragment_video.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_source.xml",
+        "source": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\src\\main\\res\\layout\\activity_source.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web.xml",
+        "source": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\src\\main\\res\\layout\\activity_web.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_news.xml",
+        "source": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\src\\main\\res\\layout\\item_news.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_control.xml",
+        "source": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\src\\main\\res\\layout\\video_control.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_changepassword.xml",
+        "source": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\src\\main\\res\\layout\\activity_changepassword.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_news_list_activiry.xml",
+        "source": "E:\\Workspace\\Pvirtech\\xueliang\\Hefei\\app\\src\\main\\res\\layout\\activity_news_list_activiry.xml"
+    }
+]
